@@ -1,0 +1,25 @@
+{
+  "name": "words-to-time",
+  "version": "1.0.0",
+  "description": "convert a string of words to time in milliseconds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/momotofu/words-to-time.git"
+  },
+  "keywords": [
+    "time",
+    "conversion",
+    "time",
+    "units"
+  ],
+  "author": "Christopher Reece",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/momotofu/words-to-time/issues"
+  },
+  "homepage": "https://github.com/momotofu/words-to-time#readme"
+}
